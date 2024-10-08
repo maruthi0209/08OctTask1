@@ -1,8 +1,8 @@
 /* Universal features */
-* {
+/* * {
     border-width: 2px !important;
     border-style: solid !important;
-}
+} */
 
 .container {
     width: 500px;
